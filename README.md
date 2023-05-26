@@ -1,4 +1,4 @@
-# King County House Slaes IBM
+# King County House Sales IBM
 
 ## Data Analaysis of House Sales in King County, US
 ### IBM Data Science Certificate - Data Analysis with Python
